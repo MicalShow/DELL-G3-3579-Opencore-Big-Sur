@@ -1,3 +1,10 @@
+7.26更新内容
+1.更新7.26版本itlwm以及itlwmx驱动，提升网卡速度,请根据自身需求加载使用
+2.更新部分efi驱动文件为7.26最新编译版
+3.替换fakesmc为vituralsmc
+
+
+本EFI可正常引导win10
 OpenCore Hackintosh for Dell G3 3579
 根据https://github.com/tonyleelyy/OpenCore-Hackintosh-Dell-G3-3579/releases/tag/v3.1
 的项目修改得到，目前测试可以正常启动macOS10.15.x以及最新的macOS Big Sur Beta版本，暂未发现异常，如有异常欢迎上报samwhiteup@gmail.com
