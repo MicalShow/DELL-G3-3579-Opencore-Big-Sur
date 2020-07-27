@@ -1,7 +1,6 @@
-重要问题通告
-
-此EFI有人员报告从catalina直接升级Big Sur会出问题，无法完成升级，请大家暂时使用U盘全新安装的形式安装Big Sur，具体原因还在查找中，请静待后续更新
-
+7.27更新内容
+1.解决了因驱动造成的安装盘禁行的问题
+2.修复了无法从10.15.x OTA升级BigSur的BUG
 
 7.26更新内容
 1.更新7.26版本itlwm以及itlwmx驱动，提升网卡速度,请根据自身需求加载使用
@@ -9,6 +8,9 @@
 
 
 本EFI可正常引导win10
+
+BigSur安装需重新启动数次，如您遇到安装程序在剩余时间还有几分钟时突然重启请不要慌张，重启后继续选择MacOS安装磁盘继续安装即可，整个安装过程计算机可能需要重新启动数次
+
 OpenCore Hackintosh for Dell G3 3579
 根据@tonyleelyy https://github.com/tonyleelyy/OpenCore-Hackintosh-Dell-G3-3579/releases/tag/v3.1
 的项目修改得到，目前测试可以正常启动macOS10.15.x以及最新的macOS Big Sur Beta版本，暂未发现异常，如有异常欢迎上报samwhiteup@gmail.com
