@@ -27,6 +27,7 @@ OpenCore Hackintosh for Dell G3 3579
 | 无线网卡 |     Inte WIFI 6 AX200    |  ✅  |
 
 感谢每位指导此项目的朋友
+
 -@tonyleelyy https://github.com/tonyleelyy/OpenCore-Hackintosh-Dell-G3-3579/releases/tag/v3.1 提供的基本EFI
 
 -@Pyhpanyuahng提供的基本修改思路
