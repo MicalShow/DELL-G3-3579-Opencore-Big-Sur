@@ -26,7 +26,13 @@ OpenCore Hackintosh for Dell G3 3579
 | 有线网卡 |        Realtek RTL8111        |    ✅     |
 | 无线网卡 |     Inte WIFI 6 AX200    |  ✅  |
 
-感谢@tonyleelyy https://github.com/tonyleelyy/OpenCore-Hackintosh-Dell-G3-3579/releases/tag/v3.1 提供的基本EFI，@Pyhpanyuahng提供的基本修改思路，@Z大github:https://github.com/zxystd/itlwm 提供的Intel无线网卡驱动项目
+感谢每位指导此项目的朋友
+-@tonyleelyy https://github.com/tonyleelyy/OpenCore-Hackintosh-Dell-G3-3579/releases/tag/v3.1 提供的基本EFI
+
+-@Pyhpanyuahng提供的基本修改思路
+
+
+-@zxystd https://github.com/zxystd/itlwm 提供的Intel无线网卡驱动项目
 
 
 戴尔G3黑苹果交流群：1028961766
