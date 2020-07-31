@@ -1087,7 +1087,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>dart=0 slide=1 darkwake=8</string>
+				<string>agdpmod=vit9696 dart=0 slide=1 darkwake=8</string>
 				<key>bootercfg</key>
 				<string>log=0 debug=0 level=0</string>
 				<key>csr-active-config</key>
