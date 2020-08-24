@@ -57,7 +57,7 @@ OpenCore Hackintosh for Dell G3 3579
 | 独立显卡 |  NVIDIA GeForce GTX 1050TI 4G   |    ❌     |
 |   声卡   |        Realtek ALC236         |    ✅     |
 | 有线网卡 |        Realtek RTL8111        |    ✅     |
-| 无线网卡 |     Inte WIFI 6 AX200    |  ✅  |
+| 无线网卡 |     Broadcom 934224PCIEBT2    |  ✅  |
 
 感谢每位指导此项目的朋友
 
